@@ -22,5 +22,5 @@
 
 ## Links
 
-Live Demo:
+Live Demo: https://daily-dos-task.netlify.app/
 
